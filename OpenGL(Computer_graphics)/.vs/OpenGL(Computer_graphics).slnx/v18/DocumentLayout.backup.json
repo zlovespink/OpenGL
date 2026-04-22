@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\OpenGL(Computer_graphics)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{866B6FA7-E98F-40C0-8BFC-AFA273B28E87}|OpenGL(Computer_graphics).vcxproj|C:\\Users\\Admin\\Documents\\OpenGL(Computer_graphics)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{866B6FA7-E98F-40C0-8BFC-AFA273B28E87}|OpenGL(Computer_graphics).vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\OpenGL(Computer_graphics)\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\OpenGL(Computer_graphics)\\Main.cpp*",
+              "RelativeToolTip": "Main.cpp*",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T08:58:38.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
